@@ -1,0 +1,35 @@
+﻿<Window x:Class="WpfApplication1.nurseReg"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1"
+        mc:Ignorable="d"
+        Title="nurseReg" Height="594" Width="443" ResizeMode="NoResize" WindowStyle="None" WindowStartupLocation="CenterScreen">
+    <Grid Background="#FFA0C1EA" Height="594" VerticalAlignment="Top" Margin="0,0,-24,0" HorizontalAlignment="Left" Width="467">
+        <Grid Margin="0,0,67,67" Background="#FF35B4C1" Height="445" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="340">
+            <TextBlock HorizontalAlignment="Left" Margin="43,99,0,0" TextWrapping="Wrap" Text="Name" VerticalAlignment="Top" FontSize="14" RenderTransformOrigin="0.486,0.237"/>
+            <TextBlock HorizontalAlignment="Left" Margin="43,197,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Gender" FontSize="14" RenderTransformOrigin="0.818,0.644"/>
+            <TextBlock HorizontalAlignment="Left" Margin="43,284,0,0" TextWrapping="Wrap" Text="Address" VerticalAlignment="Top" FontSize="14"/>
+            <TextBlock HorizontalAlignment="Left" Margin="43,242,0,0" TextWrapping="Wrap" Text="Phone Number" VerticalAlignment="Top" Height="17" FontSize="14"/>
+            <TextBox x:Name="N_name" HorizontalAlignment="Left" Height="23" Margin="148,99,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169"/>
+            <TextBox x:Name="N_address" HorizontalAlignment="Left" Height="66" Margin="148,284,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169"/>
+            <TextBox x:Name="N_phno" HorizontalAlignment="Left" Height="23" Margin="148,242,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169"/>
+            <RadioButton x:Name="N_male" Content="Male" HorizontalAlignment="Left" Margin="148,197,0,0" VerticalAlignment="Top" FontSize="14"/>
+            <RadioButton x:Name="N_female" Content="Female" HorizontalAlignment="Left" Margin="254,198,0,0" VerticalAlignment="Top" FontSize="14"/>
+            <Button x:Name="nRegaddbtn" Content="ADD" HorizontalAlignment="Left" Margin="106,382,0,0" VerticalAlignment="Top" Width="76" Click="staffRegAddbtn_Click"/>
+            <Button x:Name="nRegclosebtn" Content="CLOSE" HorizontalAlignment="Left" Margin="187,382,0,0" VerticalAlignment="Top" Width="74" Click="staffRegClosebtn_Click"/>
+            <TextBlock HorizontalAlignment="Left" Margin="43,146,0,0" TextWrapping="Wrap" Text="Age" VerticalAlignment="Top" FontSize="14" RenderTransformOrigin="0.486,0.237"/>
+            <TextBox x:Name="N_age" HorizontalAlignment="Left" Height="23" Margin="148,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169"/>
+            <TextBlock HorizontalAlignment="Left" Margin="43,56,0,0" TextWrapping="Wrap" Text="Date" VerticalAlignment="Top" FontSize="14" RenderTransformOrigin="0.486,0.237"/>
+            <DatePicker x:Name="N_date" HorizontalAlignment="Left" Margin="148,56,0,0" VerticalAlignment="Top" Width="169" RenderTransformOrigin="0.402,0.577"/>
+
+        </Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="157,28,0,0" TextWrapping="Wrap" Text="Nurse Registration Form" VerticalAlignment="Top" FontFamily="Myriad Hebrew" FontSize="20" Foreground="#FF224091" FontWeight="Bold"/>
+        <Rectangle HorizontalAlignment="Left" Height="76" Margin="78,1,0,0" VerticalAlignment="Top" Width="74">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="images/nurse1.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+    </Grid>
+</Window>

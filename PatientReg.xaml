@@ -1,0 +1,66 @@
+﻿<Window x:Class="WpfApplication1.PatientReg"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1"
+        mc:Ignorable="d"
+        Title="Patient Registration" Height="639.118" Width="794.768" Icon="images/p4.jpg" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Grid RenderTransformOrigin="0.851,0.191" Margin="0,0,2,0">
+        <Grid.Background>
+            <ImageBrush ImageSource="images/p1 (2).jpg"/>
+        </Grid.Background>
+        <TextBlock x:Name="pregtxtbk1" HorizontalAlignment="Left" Margin="210,0,0,0" TextWrapping="Wrap" Text=" Inpatient   Registration" VerticalAlignment="Top" Width="349" Height="41" FontFamily="Traditional Arabic" FontSize="32" Foreground="Black" FontStyle="Italic" TextDecorations="{x:Null}" FontWeight="Bold"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="21,254,0,0" TextWrapping="Wrap" Text="Patient's Information" VerticalAlignment="Top" RenderTransformOrigin="-3.588,1.156" Width="137" FontSize="13.333" FontWeight="Bold" Height="23"/>
+        <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Margin="21,293,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Name"/>
+        <TextBlock x:Name="textBlock3" HorizontalAlignment="Left" Margin="21,326,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Gender"/>
+        <TextBlock x:Name="textBlock3_Copy" HorizontalAlignment="Left" Margin="21,362,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Age"/>
+        <TextBlock x:Name="textBlock3_Copy1" HorizontalAlignment="Left" Margin="21,407,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Phone"/>
+        <TextBlock x:Name="textBlock3_Copy2" HorizontalAlignment="Left" Margin="21,475,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Address"/>
+        <TextBlock x:Name="textBlock3_Copy3" HorizontalAlignment="Left" Margin="21,547,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="18" Text="Disease"/>
+        <TextBox x:Name="pname" HorizontalAlignment="Left" Height="23" Margin="102,286,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="page" HorizontalAlignment="Left" Height="23" Margin="102,362,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="pphone" HorizontalAlignment="Left" Height="23" Margin="102,407,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="padd" HorizontalAlignment="Left" Height="61" Margin="102,451,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="pdisease" HorizontalAlignment="Left" Height="56" Margin="102,530,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock x:Name="textBlock5" HorizontalAlignment="Left" Margin="497,461,0,0" TextWrapping="Wrap" Text="Room's Information" VerticalAlignment="Top" FontSize="13.333" FontWeight="Bold"/>
+        <TextBlock x:Name="textBlock6" HorizontalAlignment="Left" Margin="497,499,0,0" TextWrapping="Wrap" Text="RoomNo" VerticalAlignment="Top" Width="126"/>
+        <Button x:Name="pregbtn1" Content="ADD" HorizontalAlignment="Left" Margin="512,543,0,0" VerticalAlignment="Top" Width="75" Click="pregbtn1_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FF324CA0" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="pregbtn2" Content="View Rooms" HorizontalAlignment="Left" Margin="433,183,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="2.187,-8.591" Click="pregbtn2_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FF3B5DCF" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="pregbtn3" Content="Close" HorizontalAlignment="Left" Margin="628,544,0,0" VerticalAlignment="Top" Width="75" Click="pregbtn3_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FF3550AC" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <RadioButton x:Name="pmalerbtn" Content="Male" HorizontalAlignment="Left" Margin="102,326,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <RadioButton x:Name="pfemalerbtn" Content="Female" HorizontalAlignment="Left" Margin="151,326,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBlock x:Name="textBlock7" HorizontalAlignment="Left" Margin="21,224,0,0" TextWrapping="Wrap" Text="Doctor Name" VerticalAlignment="Top"/>
+        <TextBox x:Name="ProomNotxtbox" HorizontalAlignment="Left" Height="23" Margin="628,492,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="IpDrIdcmb" HorizontalAlignment="Left" Margin="102,224,0,0" VerticalAlignment="Top" Width="120"/>
+        <DataGrid x:Name="IpViewRoomdgr" HorizontalAlignment="Left" Margin="433,214,0,0" VerticalAlignment="Top" Width="335" Height="164"/>
+
+    </Grid>
+</Window>

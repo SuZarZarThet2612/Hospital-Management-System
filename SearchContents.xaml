@@ -1,0 +1,68 @@
+﻿<Page x:Class="WpfApplication1.SearchContents"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApplication1"
+      mc:Ignorable="d" 
+      d:DesignHeight="400.447" d:DesignWidth="401.704"
+      Title="SearchContents">
+
+    <Grid Height="400" VerticalAlignment="Bottom" Background="#FFA0C1EA">
+        <Rectangle HorizontalAlignment="Left" Height="42" Margin="84,99,0,0" VerticalAlignment="Top" Width="42">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="images/s5.jpg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="44" Margin="84,161,0,0" VerticalAlignment="Top" Width="42" RenderTransformOrigin="2.011,0.932">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="images/s4.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="47" Margin="84,230,0,0" VerticalAlignment="Top" Width="42">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="images/s3.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Margin="109,0,0,333" Width="166">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="images/s2.png"/>
+            </Rectangle.Fill>
+
+
+
+        </Rectangle>
+        <Button x:Name="Search_doctor" Content="Doctor Search" HorizontalAlignment="Left" Margin="126,99,0,0" VerticalAlignment="Top" Width="149" Height="42" FontSize="21.333" FontFamily="Script MT Bold" BorderBrush="#FF4DBAD3" Click="Search_doctor_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FF268EAC" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Search_inpatient" Content="Inpatient Search" HorizontalAlignment="Left" Margin="126,161,0,0" VerticalAlignment="Top" Width="149" Height="44" FontSize="21.333" FontFamily="Script MT Bold" RenderTransformOrigin="0.517,0.351" BorderBrush="#FF40D34D" Click="Search_inpatient_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FF35DA3D" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Search_outpatient" Content="Outpatient Search" HorizontalAlignment="Left" Margin="126,230,0,0" VerticalAlignment="Top" Width="149" Height="47" FontSize="18.667" FontFamily="Script MT Bold" Click="Search_outpatient_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FFD62828" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+
+
+    </Grid>
+</Page>

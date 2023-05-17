@@ -1,0 +1,22 @@
+﻿<Window x:Class="WpfApplication1.MedicineUpdate"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1"
+        mc:Ignorable="d"
+        Title="Medicine Update" Height="538.226" Width="352.577" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Grid Background="#FFA0C1EA">
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="91,0,0,0" TextWrapping="Wrap" Text="Medicine Update" VerticalAlignment="Top" FontFamily="Traditional Arabic" FontWeight="Bold" FontSize="21.333"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="55,67,0,0" TextWrapping="Wrap" Text="Medicine" VerticalAlignment="Top" FontFamily="Traditional Arabic" FontSize="16"/>
+        <TextBlock x:Name="textBlock1_Copy" HorizontalAlignment="Left" Margin="55,108,0,0" TextWrapping="Wrap" Text="Expiry Date" VerticalAlignment="Top" FontFamily="Traditional Arabic" FontSize="16"/>
+        <TextBlock x:Name="textBlock1_Copy1" HorizontalAlignment="Left" Margin="55,151,0,0" TextWrapping="Wrap" Text="Price" VerticalAlignment="Top" FontFamily="Traditional Arabic" FontSize="16"/>
+        <Button x:Name="medCacelbtn" Content="Cancel" HorizontalAlignment="Left" Margin="192,206,0,0" VerticalAlignment="Top" Width="75" FontFamily="Times New Roman" FontSize="16" Click="medCacelbtn_Click" Background="#FF275AB2"/>
+        <Button x:Name="save" Content="Save" HorizontalAlignment="Left" Margin="78,206,0,0" VerticalAlignment="Top" Width="75" FontFamily="Times New Roman" FontSize="16" Click="save_Click_1" Background="#FF275AB2"/>
+        <DataGrid x:Name="medDataGrid" HorizontalAlignment="Left" Margin="0,244,0,0" VerticalAlignment="Top" Width="345" Height="256" AlternatingRowBackground="#FF4DB3EE" AlternationCount="1"/>
+        <TextBox x:Name="medPricetxt" HorizontalAlignment="Left" Height="23" Margin="182,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="medExDtxt" HorizontalAlignment="Left" Height="23" Margin="182,107,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="medUpcmb" HorizontalAlignment="Left" Margin="182,67,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="medUpcmb_SelectionChanged"/>
+
+    </Grid>
+</Window>

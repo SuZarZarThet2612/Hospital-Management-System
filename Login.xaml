@@ -1,0 +1,50 @@
+﻿<Window x:Class="WpfApplication1.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1"
+        mc:Ignorable="d"
+        Title="Login" Height="300" Width="500" Background="#FF1528E8" Icon="images/l2.png" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" HorizontalAlignment="Right">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="images/l1.jpg"/>
+        </Grid.Background>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Hospital Management System" VerticalAlignment="Top" Foreground="White" FontFamily="Rockwell Extra Bold" FontSize="18.667"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="10,75,0,0" TextWrapping="Wrap" Text="UserID" VerticalAlignment="Top" Foreground="White" FontSize="13.333" FontFamily="Traditional Arabic"/>
+        <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Margin="10,112,0,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top" RenderTransformOrigin="-0.027,-0.051" Foreground="White" FontFamily="Traditional Arabic" FontSize="14.667" Width="60"/>
+        <TextBox x:Name="useridtxt" HorizontalAlignment="Left" Height="23" Margin="99,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="lgbtn1" Content="DoctorLogin" HorizontalAlignment="Left" Margin="15,181,0,0" VerticalAlignment="Top" Width="79" FontFamily="Traditional Arabic" Click="lgbtn1_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FF1DD6BD" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="lgbtn2" Content="StaffLogin" HorizontalAlignment="Left" Margin="99,181,0,0" VerticalAlignment="Top" Width="73" FontFamily="Traditional Arabic" Click="lgbtn2_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FF1BDCC2" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="lgbtn3" Content="Cancel" HorizontalAlignment="Left" Margin="177,181,0,0" VerticalAlignment="Top" Width="75" FontFamily="Traditional Arabic" Click="lgbtn3_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FF17D4BB" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <PasswordBox x:Name="pwdbox" HorizontalAlignment="Left" Margin="99,112,0,0" VerticalAlignment="Top" Width="120" Height="22"/>
+
+    </Grid>
+</Window>

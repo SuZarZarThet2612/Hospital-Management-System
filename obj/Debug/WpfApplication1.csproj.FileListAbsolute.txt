@@ -1,0 +1,209 @@
+F:\project\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+F:\project\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+F:\project\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\Login.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\Login.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\DocReg.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\PatientReg.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\DocReg.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\PatientReg.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\SearchDoctor.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\SearchDoctor.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\DocEdit.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\DocEdit.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\RoomAllocation.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\RoomAllocation.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\PharmancyBill.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\PharmancyBill.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\LabBill.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\MedicineUpdate.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\OutpatientReg.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\LabBill.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\MedicineUpdate.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\OutpatientReg.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\InpatientSearch.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\InpatientSearch.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\OutpatientSearch.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\OutpatientSearch.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\InpatientBill.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\InpatientBill.baml
+F:\project\WpfApplication1\WpfApplication1\bin\Debug\MySql.Data.dll
+F:\project\WpfApplication1\WpfApplication1\bin\Debug\MySql.Data.xml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\OutpatientBill.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\RoomUpdate.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\OutpatientBill.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\RoomUpdate.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\OperationBill.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\OperationBill.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\nurseReg.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\nurseReg.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\Appointment.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\staffReg.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\Appointment.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\staffReg.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\showAppointment.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\showAppointment.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\Main.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\Main.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\RegContents.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\SearchContents.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\BillContents.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\UpdateContents.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\BillContents.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\RegContents.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\SearchContents.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\UpdateContents.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\ApmContents.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\ApmContents.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\Changepwd.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\Changepwd.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\DorS.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\Schangepwd.g.cs
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\DorS.baml
+F:\project\WpfApplication1\WpfApplication1\obj\Debug\Schangepwd.baml
+D:\project\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\project\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\project\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\project\WpfApplication1\WpfApplication1\bin\Debug\MySql.Data.xml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\ApmContents.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\Appointment.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\BillContents.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\Changepwd.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\DocEdit.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\DocReg.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\DorS.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\InpatientBill.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\InpatientSearch.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\LabBill.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\Login.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\Main.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\MedicineUpdate.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\nurseReg.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\OutpatientBill.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\OutpatientReg.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\OutpatientSearch.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\PatientReg.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\PharmancyBill.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\RegContents.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\RoomUpdate.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\Schangepwd.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\SearchContents.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\SearchDoctor.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\showAppointment.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\staffReg.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\UpdateContents.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\ApmContents.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\Appointment.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\BillContents.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\Changepwd.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\DocEdit.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\DocReg.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\DorS.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\InpatientBill.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\InpatientSearch.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\LabBill.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\Login.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\Main.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\MedicineUpdate.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\nurseReg.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\OutpatientBill.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\OutpatientReg.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\OutpatientSearch.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\PatientReg.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\PharmancyBill.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\RegContents.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\RoomUpdate.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\Schangepwd.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\SearchContents.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\SearchDoctor.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\showAppointment.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\staffReg.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\UpdateContents.baml
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+G:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+G:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+G:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\bin\Debug\MySql.Data.xml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\ApmContents.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\Appointment.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\BillContents.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\Changepwd.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\DocEdit.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\DocReg.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\DorS.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\InpatientBill.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\InpatientSearch.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\LabBill.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\Login.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\Main.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\MedicineUpdate.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\nurseReg.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\OutpatientBill.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\OutpatientReg.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\OutpatientSearch.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\PatientReg.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\PharmancyBill.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\RegContents.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\RoomUpdate.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\Schangepwd.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\SearchContents.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\SearchDoctor.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\showAppointment.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\staffReg.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\UpdateContents.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\ApmContents.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\Appointment.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\BillContents.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\Changepwd.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\DocEdit.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\DocReg.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\DorS.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\InpatientBill.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\InpatientSearch.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\LabBill.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\Login.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\Main.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\MedicineUpdate.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\nurseReg.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\OutpatientBill.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\OutpatientReg.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\OutpatientSearch.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\PatientReg.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\PharmancyBill.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\RegContents.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\RoomUpdate.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\Schangepwd.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\SearchContents.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\SearchDoctor.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\showAppointment.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\staffReg.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\UpdateContents.baml
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Khin Myat Noe(3am)\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache

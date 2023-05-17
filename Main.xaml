@@ -1,0 +1,90 @@
+﻿<Window x:Class="WpfApplication1.Main"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1"
+        mc:Ignorable="d"
+        Title="Main" Height="{DynamicResource {x:Static SystemParameters.MaximizedPrimaryScreenHeightKey}}" Width="{DynamicResource {x:Static SystemParameters.MaximizedPrimaryScreenWidthKey}}" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" >
+    <Grid  Margin="0,0,2,3">
+
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Left" Height="712" VerticalAlignment="Top" Width="1372" Background="#FF325483">
+            <StackPanel Height="194" HorizontalAlignment="Left" Width="1372">
+                <Grid Height="196" Background="#FF325483" Margin="0,0,245,0">
+                    <Rectangle HorizontalAlignment="Left" Height="82" Margin="328,64,0,0" VerticalAlignment="Top" Width="84">
+                        <Rectangle.Fill>
+                            <ImageBrush ImageSource="images/edit.png"/>
+                        </Rectangle.Fill>
+                    </Rectangle>
+                    <Rectangle HorizontalAlignment="Left" Height="82" Margin="628,64,0,0" VerticalAlignment="Top" Width="88" RenderTransformOrigin="0.667,0.791">
+                        <Rectangle.Fill>
+                            <ImageBrush ImageSource="images/u1.png"/>
+                        </Rectangle.Fill>
+                    </Rectangle>
+                    <Rectangle HorizontalAlignment="Left" Height="82" Margin="777,64,0,0" VerticalAlignment="Top" Width="90">
+                        <Rectangle.Fill>
+                            <ImageBrush ImageSource="images/a1.jpg"/>
+                        </Rectangle.Fill>
+                    </Rectangle>
+                    <Rectangle HorizontalAlignment="Left" Height="82" Margin="475,64,0,0" VerticalAlignment="Top" Width="82" RenderTransformOrigin="1.634,0.604">
+                        <Rectangle.Fill>
+                            <ImageBrush ImageSource="images/s1.jpg"/>
+                        </Rectangle.Fill>
+                    </Rectangle>
+                    <Rectangle HorizontalAlignment="Left" Height="82" Margin="945,64,0,0" VerticalAlignment="Top" Width="90" RenderTransformOrigin="0.667,0.791">
+                        <Rectangle.Fill>
+                            <ImageBrush ImageSource="images/b1.png"/>
+                        </Rectangle.Fill>
+                    </Rectangle>
+                    <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="475,0,0,0" TextWrapping="Wrap" Text="Hospital Management System" VerticalAlignment="Top" FontFamily="Rockwell" FontSize="26.667" FontWeight="Bold" Foreground="#FF040C3E"/>
+                    <Button x:Name="searchbtn" Content="Search" HorizontalAlignment="Left" Margin="475,151,0,0" VerticalAlignment="Top" Width="82" FontSize="13.333" FontFamily="Lucida Handwriting" FontWeight="Bold" Click="SearchBtnClick"/>
+                    <Button x:Name="uptbtn" Content="Update" HorizontalAlignment="Left" Margin="627,151,0,0" VerticalAlignment="Top" Width="89" FontSize="13.333" FontFamily="Lucida Handwriting" FontWeight="Bold" Click="updatebtnClick"/>
+                    <Button x:Name="apmbtn" Content="Appointment" HorizontalAlignment="Left" Margin="777,151,0,0" VerticalAlignment="Top" Width="114" FontSize="13.333" FontFamily="Lucida Handwriting" FontWeight="Bold" Click="apmBtnClick"/>
+                    <Button x:Name="billbtn" Content="Bill" HorizontalAlignment="Left" Margin="946,151,0,0" VerticalAlignment="Top" Width="89" FontSize="13.333" FontFamily="Lucida Handwriting" FontWeight="Bold" Click="billBtnClick"/>
+                    <Button x:Name="regbtn" Content="Register" HorizontalAlignment="Left" Margin="328,151,0,0" VerticalAlignment="Top" Width="84" FontSize="13.333" FontFamily="Lucida Handwriting" FontWeight="Bold" Click="RegBtnClick"/>
+
+
+
+                </Grid>
+
+
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Height="463">
+                <StackPanel Width="385">
+                    <Frame x:Name="frame1" Content="" Height="463" Foreground="#FFFFAFAF" OpacityMask="#FFBF1E1E" Background="#FFA5B1FB" NavigationUIVisibility="Hidden"/>
+                </StackPanel>
+                <StackPanel Width="988" >
+                    <StackPanel.Background>
+                        <ImageBrush ImageSource="images/mainbd.jpg"/>
+                    </StackPanel.Background>
+                </StackPanel>
+            </StackPanel>
+
+        </StackPanel>
+        <Button x:Name="logoutbtn" Content="Log out" HorizontalAlignment="Left" Margin="1213,662,0,-3" VerticalAlignment="Top" Width="159" Height="53" BorderBrush="{x:Null}" FontFamily="DokChampa" FontSize="24" Foreground="White" Click="logoutbtn_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFB22B2B" Offset="0.047"/>
+                    <GradientStop Color="#FFB90909" Offset="0.95"/>
+                    <GradientStop Color="#FFBD2B2B" Offset="0.521"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Rectangle HorizontalAlignment="Left" Height="51" Margin="1157,664,0,-3" VerticalAlignment="Top" Width="56">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="images/log out.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Button x:Name="chBtn" Content="Change Password" HorizontalAlignment="Left" Margin="73,662,0,0" VerticalAlignment="Top" Width="189" Height="48" FontSize="21.333" Foreground="White" BorderBrush="#FF325989" Click="chBtnClick" Background="#FF1429AE"/>
+        <Rectangle HorizontalAlignment="Left" Height="48" Margin="10,664,0,0" VerticalAlignment="Top" Width="63">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="images/pwd.jpg" Stretch="UniformToFill"/>
+            </Rectangle.Fill>
+            <Rectangle.OpacityMask>
+                <ImageBrush ImageSource="images/pwd.jpg"/>
+            </Rectangle.OpacityMask>
+        </Rectangle>
+
+
+    </Grid>
+</Window>
